@@ -1,2 +1,2 @@
-# UsernamePasswordPage
-Username and Password Example in ContentPage
+# MAUI(Xamarin) login app
+Username and password example in XAML
